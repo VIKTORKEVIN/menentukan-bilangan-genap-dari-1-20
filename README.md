@@ -1,0 +1,1 @@
+# menentukan-bilangan-genap-dari-1-20
